@@ -1,0 +1,4 @@
+interface:
+  display_name: "Members of the Finance Polandballs"
+  short_description: "Canonical Finance Polandball character roster"
+  default_prompt: "Use $finance-polandball-members to select and depict the canonical Finance Polandball characters."

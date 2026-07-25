@@ -1,0 +1,4 @@
+interface:
+  display_name: "Finance Polandball Style"
+  short_description: "Finance Polandball visual and dialogue rules"
+  default_prompt: "Use $finance-polandball-style to create or revise a Finance Polandball comic in the established classic style."
